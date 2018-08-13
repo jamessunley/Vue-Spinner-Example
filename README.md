@@ -1,6 +1,6 @@
-# test
+# Spinner
 
-> a test
+> a testproject for working with loading spinners in vue
 
 ## Build Setup
 
